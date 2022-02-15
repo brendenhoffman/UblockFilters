@@ -1,0 +1,170 @@
+reddit.com##h2+button:has-text(/^Add email/):nth-ancestor(10)
+
+reddit.com##a[href^="/rpan/r/"]>h3:has-text(Top broadcast right now):nth-ancestor(7)
+reddit.com##a[href^="/rpan/r/"]>h3:has-text(Top broadcast):nth-ancestor(7)
+reddit.com##a[href^="/rpan/r/"]>h3:has-text(Top livestream):nth-ancestor(7)
+!www.reddit.com##.scrollerItem:has-text(Top broadcast right now)
+!reddit.com##.Post:has-text(RPAN)
+!reddit.com##.Post:has-text(Top broadcast right now)
+
+! 5/6/2020 https://www.reddit.com
+www.reddit.com##._2IHh1GBfUxJVQQX0dJvAry
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(3) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(2) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV.avKlJzxZU3brq4nAX0_i1
+www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##._1vYrJH5uc57mZQJPN4l34E > ._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV.avKlJzxZU3brq4nAX0_i1
+www.reddit.com##._1oRQu-aolgpPPJDblUGTw5
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(5) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##._1vXXD2qKLnHetdKvisFzBD
+www.reddit.com##.jEUbSHJJx8vISKpWirlfx
+www.reddit.com##button._1zZ3VDhRC38fXLLvVCHOwK._2KotRmn9DgdA58Ikji2mnV:nth-of-type(1)
+www.reddit.com##a._1YWXCINvcuU7nk0ED-bta8:nth-of-type(3)
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(4) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##a._1YWXCINvcuU7nk0ED-bta8:nth-of-type(4)
+www.reddit.com##a._1YWXCINvcuU7nk0ED-bta8:nth-of-type(5)
+www.reddit.com###focus-PublicAccessNetwork
+www.reddit.com###focus-DailyCharts
+www.reddit.com###focus-All
+www.reddit.com###focus-Popular
+www.reddit.com##div._2XRPX11qL4-HxWPuHAzOW5._1Ok0AiXwAeYl2SsUBaxgPC:nth-of-type(2)
+!www.reddit.com##.FOioVk_DUTmZIKKa82Mm1
+
+! 5/6/2020 https://www.ebay.com
+www.ebay.com##.hl-image__fill.hl-full-bleed-banner__image.js-only.hl-image-js.hl-image > .hl-image__background
+www.ebay.com##li.hl-carousel__item.carousel__snap-point:nth-of-type(1) > .hl-color-block-banner.hl-banner > .has-fine-print.hl-color-block-banner__content
+
+! 5/6/2020 https://www.pixiv.net
+www.pixiv.net##.irywmB.sc-kJfOjQ
+www.pixiv.net##.bXSvFU.sc-qQwPu
+www.pixiv.net##.MoFdL.sc-jWsOZw
+www.pixiv.net##.cNAkIO.sc-qarTB
+www.pixiv.net##.XyJF90a._1NXBIHX
+!www.pixiv.net##.biYjWK.sc-pQFHc
+
+! 5/6/2020 https://www.pixiv.net
+www.pixiv.net##li.dzCPyv.sc-pZnhi:nth-of-type(1)
+
+! 5/7/2020 https://www.youtube.com
+www.youtube.com###chips-below > .ytd-rich-grid-renderer.style-scope
+www.youtube.com###sponsor-button
+www.youtube.com###button > .ytd-subscription-notification-toggle-button-renderer.style-scope
+
+! 5/7/2020 https://touhou.fandom.com
+!fandom.com###globalNavigation
+fandom.com###mixed-content-footer
+fandom.com###WikiaBarWrapper
+!fandom.com##.wds-global-navigation-wrapper
+
+! 5/7/2020 https://touhou.fandom.com
+fandom.com##.wds-global-navigation__content-bar-left
+fandom.com##.wds-global-navigation__start-a-wiki
+fandom.com###WikiaRail
+fandom.com##.createpage.wds-is-secondary.wds-button
+fandom.com###WikiaRailWrapper
+
+youtube.com##ytd-rich-section-renderer:has-text(Breaking news)
+youtube.com##ytd-rich-section-renderer:has-text(Latest YouTube posts)
+
+! 2021-09-29 https://www.reddit.com
+www.reddit.com##._3VqiDbufgl9_EiV_tk9L6u
+
+! 2021-09-30 https://www.reddit.com
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com###Header--Moderation > .FOioVk_DUTmZIKKa82Mm1
+
+! 2021-10-01 https://www.klrforum.com
+www.klrforum.com###right-rail-premium-upgrade-button
+www.klrforum.com##div.sidebar-block:nth-of-type(8)
+www.klrforum.com##.hide-mw-responsiveWide.sidebar.california-thread-sidebar
+www.klrforum.com##.recommended-survey-wrapper
+
+! 2021-10-07 https://amazon.syf.com
+amazon.syf.com##.CGXRw.sc-kkmGkm
+
+! 2021-10-12 https://www.youtube.com
+www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+www.youtube.com##h3.ytd-guide-section-renderer.style-scope > .ytd-guide-section-renderer.style-scope
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! 2021-10-12 https://www.paypal.com
+www.paypal.com##.cw-table-row.fade.cw-carousel-mySlides
+www.paypal.com##.ppvx_link.ppvx_elevation--level1.aq1.ppvx_text--medium
+www.paypal.com##.cw-carousel-nav
+www.paypal.com##.cw-carousel-prev
+www.paypal.com##.cw-carousel-next
+
+! 2021-10-12 https://www.amazon.com
+www.amazon.com###navbar > .nav-sprite
+
+! 2021-10-12 https://ifunny.co
+ifunny.co##._3tF-._1kq1._1kaz._3neW._4QrZ > .KyxE
+ifunny.co###header
+ifunny.co##.MWox
+ifunny.co##._3gfn
+ifunny.co##._11x8 > ._2oSY.cwzo > ._1k42
+ifunny.co##._11x8 > ._2oSY.cwzo > ._1A7k
+ifunny.co##._11x8 > ._2oSY.cwzo
+ifunny.co##._3tF-._1kq1._12Kf._3neW._4QrZ > .p5_f._1GUx._2z8Q
+ifunny.co##._3tF-._1kq1._1kaz._3neW._4QrZ > .p5_f._1GUx._2z8Q
+ifunny.co##._3tF-._1kq1._12Kf._3neW._4QrZ > .qJ4Q > ._1HNd
+ifunny.co##._3tF-._1kq1._12Kf._3neW._4QrZ > .KyxE
+ifunny.co##._3tF-._1kq1._3sCy._3neW._4QrZ > .KyxE
+ifunny.co##._3tF-._1kq1._1kaz._3neW._4QrZ > .qJ4Q > ._1HNd
+ifunny.co##._3tF-._1kq1._1kaz._3neW._4QrZ > .qJ4Q
+ifunny.co##._3tF-._1kq1.MGg5._1CDS._3neW._4QrZ > .KyxE
+ifunny.co##._3tF-._1kq1.MGg5._3neW._4QrZ > .KyxE
+ifunny.co##._3tF-._1kq1.MGg5._3neW._4QrZ > .qJ4Q > ._1HNd
+ifunny.co##._3tF-._1kq1.MGg5._3neW._4QrZ > .qJ4Q
+
+! 2021-10-13 https://outlook.office.com
+outlook.office.com##.o365sx-button._10-cTshmCNPgyphrPvQIbV._3DZt_ue17vQd7KQk1Slj6D
+outlook.office.com##._1A9lFx5niCDFyCH8SSaY2-
+outlook.office.com###skype_container > ._3G91_NL3NSqKUY1T54ewS8 > ._3G91_NL3NSqKUY1T54ewS8
+outlook.office.com###owaNoteFeedButton > .o365cs-base
+outlook.office.com###owaNoteFeedButton_container > ._3OFPOuvhHOYjd1fO_g_ymI > ._3awV-9lqOeD8DBQV6_X0vR > .toolTip.o365sx-button._2-4jfRBkDLE1Xuu-op_VA2
+outlook.office.com###LeftRailItem_Word > ._3IKtCV8Jj5NGMb7vQxVleK
+outlook.office.com###LeftRailItem_Excel > ._3IKtCV8Jj5NGMb7vQxVleK
+outlook.office.com###LeftRailItem_Powerpoint > ._3IKtCV8Jj5NGMb7vQxVleK
+outlook.office.com###LeftRailItem_OneNote > ._3IKtCV8Jj5NGMb7vQxVleK
+outlook.office.com##.o365sx-button.toolTip.o365sx-waffle._2-4jfRBkDLE1Xuu-op_VA2
+
+! 2021-10-25 https://www.reddit.com
+www.reddit.com##._3lH4vtstXYL3BXfT_hrmNu
+www.reddit.com##._288IzKhWMb7Dw403RofBU8._2h6EM3mo5Qn9Eqm18v5Hiz._1sDiFFHKyPJghjPpVTW7vB
+
+! 2021-10-26 https://www.reddit.com
+www.reddit.com##._2oY_N7NWiAv9m_mFIRdwVX
+www.reddit.com##._3hELZctjzdizaWjW1al9DZ._1Ok0AiXwAeYl2SsUBaxgPC
+www.reddit.com###focus-ModQueue
+www.reddit.com###focus-ModMail
+www.reddit.com###focus-ModListing
+www.reddit.com###focus-modt5_2521pt
+www.reddit.com##div._2XRPX11qL4-HxWPuHAzOW5._1Ok0AiXwAeYl2SsUBaxgPC:nth-of-type(3)
+www.reddit.com##div._2XRPX11qL4-HxWPuHAzOW5._1Ok0AiXwAeYl2SsUBaxgPC:nth-of-type(4)
+www.reddit.com###focus-CreateCommunity
+www.reddit.com##._3HLyjC36ED_cOkMhS77Ts1.scrollerItem.SS170RmKHoZuMMkJr141W
+www.reddit.com##div._2XRPX11qL4-HxWPuHAzOW5._1Ok0AiXwAeYl2SsUBaxgPC:nth-of-type(5)
+www.reddit.com###focus-Home
+www.reddit.com###focus-Coins
+www.reddit.com###focus-Premium
+www.reddit.com###focus-Avatar
+www.reddit.com###focus-Powerups
+www.reddit.com###focus-Talk
+www.reddit.com###focus-Predictions
+
+! 2021-10-27 https://github.com
+github.com##.mt-4.color-text-secondary.f6
+
+! 2021-10-29 https://www.youtube.com
+www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
+www.youtube.com###voice-search-button
+
+! 2022-02-16 https://minecraft.fandom.com
+fandom.com##.global-navigation__nav
+fandom.com###SurveyModule
+
