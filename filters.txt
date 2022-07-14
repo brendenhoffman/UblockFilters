@@ -168,3 +168,17 @@ www.youtube.com###voice-search-button
 fandom.com##.global-navigation__nav
 fandom.com###SurveyModule
 
+! Advertise with us
+www.reddit.com##header .icon-campaign:upward(2)
+
+! Reddit Live
+www.reddit.com##header .icon-video_live:upward(1)
+
+! r/all
+www.reddit.com##header .icon-all:upward(1)
+
+! r/popular
+www.reddit.com##header .icon-popular:upward(1)
+
+! Shop Avatars button
+www.reddit.com##header button:has-text(/Shop Avatars/):upward(1)
